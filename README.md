@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hello, I`m Abdul 👋
 
-<!--
-**Abadd-994/Abadd-994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my GitHub profile! I'm passionate about learning new things
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+###  🔭 I’m currently working on learning pythonbackend.
+###  🌱 I’m currently learning how github works. 
+###  💼 i can work with python ,Html, and C++.
+ 
+#
+
+## Skills and Technologies
+- programming Langueges : (Html , C++ , Python)
+- Tools : (Git , VS)
+- Hobbys : Boxing , Sparring , 1000+ pushup aday, playing Guitar
+
+#
+# [OpenAI](https://www.openai.com)
+
+![Image alt text](file:///home/dci-student/Downloads/IMG_7605.jpg)
+
+## [visit my site ](http://127.0.0.1:5500/project1.html)
+- [Email Me](abdulrahmann1994attar@gmail.com)
+
+
+Thanks for stopping by my profile! 😊
