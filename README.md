@@ -18,10 +18,15 @@
 #
 
 
-![Image alt text](file:///home/dci-student/Downloads/IMG_7605.jpg)
+![Project Logo](IMG_7605.jpg)
 
-## [visit my site ] (http://127.0.0.1:5500/project1.html)
-- [Email Me] (abdulrahmann1994attar@gmail.com)
+## visit my site  (http://127.0.0.1:5500/project1.html)
+### - [Email Me] abdulrahmann1994attar@gmail.com
+
+
+.
+.
+.
 
 
 Thanks for stopping by my profile! 😊
